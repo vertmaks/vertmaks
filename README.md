@@ -6,7 +6,7 @@
 <div id="socials" align="center">
     <a href="https://www.instagram.com/veretnov.m.a">
         <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
+    </a>&nbsp;
     <a href="https://t.me/maxveretnov">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
@@ -18,9 +18,11 @@
 
 - 🌱 I'm currently learning JavaScript;
 - 👯 I'm looking to collaborate with someone to learn web-development together;
-- 📫 How to reach me: [email](mailto:maxvertnov@gmail.com)
+- 📫 How to reach me: [email](mailto:maxvertnov@gmail.com) or [telegram](https://t.me/maxveretnov)
 </div>
 
+<div id="skills">
+</div>
 <!--
 **vertmaks/vertmaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
