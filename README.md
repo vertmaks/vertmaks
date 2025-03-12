@@ -1,13 +1,15 @@
 <div id="header" align="center">
     <h1>Hi there, i'm Maksym</h1>
     <h3>Full Stack Developer and Graphic Designer</h3>
+</div>
     
-<a href="https://www.instagram.com/veretnov.m.a">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://t.me/maxveretnov">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+<div id="socials" align="center">
+    <a href="https://www.instagram.com/veretnov.m.a">
+        <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://t.me/maxveretnov">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
 </div>
 
 <div id="bio">
