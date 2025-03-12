@@ -1,5 +1,3 @@
-## Hi there, i'm Maksym
-
 <div id="header" align="center">
     <h1>Hi there, i'm Maksym</h1>
     <h3>Full Stack Developer and Graphic Designer</h3>
@@ -10,6 +8,15 @@
 <a href="https://t.me/maxveretnov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
+</div>
+
+<div id="bio">
+    <h2>About me</h2>
+    Graphic designer and aspiring web developer. Experienced in HTML, CSS, and turning design mockups into fully functional websites. Currently deepening my skills in JavaScript to build interactive and dynamic web experiences. Passionate about UI/UX design, front-end development, and creating visually appealing, user-friendly interfaces.
+
+- 🌱 I'm currently learning JavaScript;
+- 👯 I'm looking to collaborate with someone to learn web-development together;
+- 📫 How to reach me: [email](mailto:maxvertnov@gmail.com)
 </div>
 
 <!--
