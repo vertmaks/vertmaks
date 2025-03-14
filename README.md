@@ -14,7 +14,7 @@
 
 <div id="bio">
     <h2>About me</h2>
-    Graphic designer and aspiring web developer. Experienced in HTML, CSS, and turning design mockups into fully functional websites. Currently deepening my skills in JavaScript to build interactive and dynamic web experiences. Passionate about UI/UX design, front-end development, and creating visually appealing, user-friendly interfaces.
+    I'm graphic designer and aspiring web developer. Experienced in HTML, CSS, and turning design mockups into fully functional websites. Currently deepening my skills in JavaScript to build interactive and dynamic web experiences. Passionate about UI/UX design, front-end development, and creating visually appealing, user-friendly interfaces.
 
 - 🌱 I'm currently learning JavaScript;
 - 👯 I'm looking to collaborate with someone to learn web-development together;
@@ -22,6 +22,16 @@
 </div>
 
 <div id="skills">
+    <h2>Languages and tools</h2>
+    <div id="web">
+        <h3>Web development</h3>
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />&nbsp;
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />&nbsp;
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
+    </div>
+    <div id="design">
+        <h3>Graphic design</h3>
+    </div>
 </div>
 <!--
 **vertmaks/vertmaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
