@@ -52,7 +52,8 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vertmaks&theme=transparent" />
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vertmaks&theme=transparent" />
         <h3>V3</h3>
-        <img src="https://streak-stats.demolab.com?user=vertmaks" />
+        [![GitHub Streak](https://streak-stats.demolab.com?user=vertmaks)](https://git.io/streak-stats)
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vertmaks"/></a>
     </div>
 </div>
 <!--
