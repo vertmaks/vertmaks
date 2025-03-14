@@ -30,14 +30,33 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>&nbsp;
     </div>
     <div id="design">
-        <h3>Graphic design</h3>
+        <h3>Graphic design and other</h3>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" height="40"/>&nbsp;
     </div>
+</div>
+
+<div id="stats">
+    <h2>My stats</h2>
+    <div align="center">
+        V1
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vertmaks)](https://github.com/anuraghazra/github-readme-stats)
+
+        V2
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vertmaks&theme=transparent)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vertmaks&theme=transparent)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vertmaks&theme=transparent)
+
+        V3
+    [![GitHub Streak](https://streak-stats.demolab.com?user=vertmaks)](https://git.io/streak-stats)
+    </div>
+
 </div>
 <!--
 **vertmaks/vertmaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
