@@ -45,18 +45,15 @@
 <div id="stats">
     <h2>My stats</h2>
     <div align="center">
-        V1
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vertmaks)](https://github.com/anuraghazra/github-readme-stats)
-
-        V2
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vertmaks&theme=transparent)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vertmaks&theme=transparent)
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vertmaks&theme=transparent)
-
-        V3
-    [![GitHub Streak](https://streak-stats.demolab.com?user=vertmaks)](https://git.io/streak-stats)
+        <h3>V1</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=vertmaks" />
+        <h3>V2</h3>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vertmaks&theme=transparent" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vertmaks&theme=transparent" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vertmaks&theme=transparent" />
+        <h3>V3</h3>
+        <img src="https://streak-stats.demolab.com?user=vertmaks" />
     </div>
-
 </div>
 <!--
 **vertmaks/vertmaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
